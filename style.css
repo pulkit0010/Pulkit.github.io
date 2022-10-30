@@ -1,0 +1,139 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #f5f5f5;
+}
+.left{
+    position: fixed ;
+    width: 20em;
+    height: 24.36em;
+    background-color: rgb(0, 0, 0);
+    padding-top: 16.5%;
+    padding-bottom: 0%;
+    margin: 0px;
+    float: left;
+}
+.home_span{
+    color: #f5f5f5;
+    font-family: 'Bungee', cursive;
+    display: block;
+    width: fit-content;
+    margin: 0px;
+    margin: auto;
+    text-decoration: none;
+}
+.home_span:hover{
+    color: #00C39D;
+    cursor: pointer;
+    border-bottom: 5px solid #00C39D;
+}
+.name_span{
+    color: #00C39D;
+}
+.ls{
+    background-color: rgb(0, 0, 0);
+}
+.home_rt_div{
+    margin: 20px;
+    margin-top: 0px;
+}
+.right{
+    width: 58.95em;
+    height: 28.36em;
+    padding-top: 11.5%;
+    padding-bottom: 0%;
+    float: right;
+    background-color: #f5f5f5;
+}
+.logo{
+    margin: 20px;
+    border-radius: 300px;
+    display: block;
+    width: 100px;
+    margin: auto;
+}
+.home_para{
+    font-size: x-large;
+    font-family: 'Lobster', cursive;
+}
+.home_logos{
+    width: fit-content;
+    margin: auto;
+}
+.right_about{
+    width: 58em;
+    height: 28.36em;
+    padding-top: 8.5%;
+    padding-left: 10px;
+    padding-bottom: 0%;
+    float: right;
+    background-color: #f5f5f5;
+}
+.about_info{
+    padding-left: 3.25em;
+    font-size: x-large;
+    font-family: 'Lobster', cursive;
+}
+a{
+    text-decoration: none;
+}
+.skills_left{
+    position: fixed ;
+    width: 20em;
+    height: 25em;
+    background-color: rgb(0, 0, 0);
+    padding-top: 16.5%;
+    padding-bottom: 0%;
+    margin: 0px;
+    float: left;
+}
+.formm{
+    width: 30.9em;
+    /* margin-left: 2.5em; */
+}
+.mail{
+    width: 55em;
+    height: 2.5em;
+    font-family: 'Lobster', cursive;
+    color: #00C39D;
+    border: 2px solid #00C39D;
+}
+.fn{
+    float: left;
+    width: 27em;
+    height: 2.5em;
+    font-family: 'Lobster', cursive;
+    color: #00C39D;
+    border: 2px solid #00C39D;
+}
+.ln{
+    float: right;
+    width: 27em;
+    height: 2.5em;
+    font-family: 'Lobster', cursive;
+    color: #00C39D;
+    border: 2px solid #00C39D;
+}
+.ms{
+    width: 55em;
+    font-family: 'Lobster', cursive;
+    color: #00C39D;
+    border: 2px solid #00C39D;
+}
+#rt_contact{
+    padding-top: 5%;
+}
+.sb{
+    width: 55.7em;
+    height: 2.5em;
+    font-family: 'Lobster', cursive;
+    color: white;
+    border: 2px solid #00C39D;
+    background-color: #00C39D;
+}
+.sb:hover{
+    cursor: pointer;
+    color: #00C39D;
+    border: 2px solid #00C39D;
+    background-color: white;
+}
